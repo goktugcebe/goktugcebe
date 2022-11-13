@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @goktugcebe 
 - 👀 interested in backend development
-- 🌱 currently learning Java and SpringBoot framework
+- 🌱 currently learning Java
 - 📫 How to reach me: goktugcebe@gmail.com
