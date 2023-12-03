@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @goktugcebe 
-- 👀 interested in data engineering
 - 🌱 currently learning Pyhton
 - 📫 How to reach me: goktugcebe@gmail.com
