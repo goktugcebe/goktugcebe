@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @goktugcebe 
 - 🌱 currently learning Pyhton
 - 📫 How to reach me: goktugcebe@gmail.com
+- 📫 LinkedIn account: linkedin.com/in/goktug-cebe/
